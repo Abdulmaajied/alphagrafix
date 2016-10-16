@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -84,7 +84,10 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
   background: #cabcab;
 }
-
+/*                               Nav styling                                 */
+.current {
+  background-color: red;
+}
 .fh5co-nav {
   position: fixed;
   top: 0;
